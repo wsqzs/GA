@@ -135,10 +135,6 @@ logs = get_git_logs(days=14)  # 改为 14 天
 - **Windows 环保**: `prepare-commit-msg.py` 已处理 UTF-8 编码问题，支持中文输出
 - **Git 仓库**: 两个脚本都需要在 Git 仓库内运行
 
-## 📄 许可证
-
-MIT
-
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！
