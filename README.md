@@ -108,7 +108,7 @@ MODEL = "deepseek-chat"
 
 ```json
 {
-  "model": "gitmodel",
+  "model": "yourmodel", // 修改为你所使用的模型
   "api_url": "http://localhost:11434/api/generate",
   "timeout": 15  // 秒
 }
